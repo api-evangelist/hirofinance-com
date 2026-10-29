@@ -64,5 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hiro is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by general-catalyst) and added to the network as a stub for full-pipeline profiling.
-- https://hirofinance.com/
+Hiro is a fintech company providing modern financial services and APIs for developers to integrate banking, payments, and financial data solutions. The platform offers a suite of endpoints for account management, transaction processing, and analytics, enabling seamless integration into applications. Backed by General Catalyst, Hiro focuses on delivering secure, scalable, and developer-friendly APIs that empower businesses to build innovative financial products and services.
+
+**Areas:** Fintech · Banking · Payments · APIs · DeveloperPlatform · Company
+
+## Hiro on APIs.io
+
+Everything profiled for Hiro is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hirofinance-com/](https://apis.io/providers/hirofinance-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Hiro API](https://apis.io/apis/hirofinance-com/hiro-api/) — API documented at Hiro Help Center providing endpoints for financial data integration.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hirofinance Com Domain Security](https://apis.io/security/hirofinance-com/hirofinance-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hirofinance.com/)
+- [Documentation](https://help.hirofinance.com/)
+- [Privacy policy](https://help.hirofinance.com/privacy-settings)
+
+## API Evangelist rating
+
+**Kin Score 7.8** — minimal · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 10.5 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.9** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hirofinance-com/](https://apis.io/providers/hirofinance-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hiro: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hirofinance-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
